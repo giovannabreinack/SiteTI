@@ -137,17 +137,19 @@ text{
     font-family: Arial, Helvetica, sans-serif;
     flex-direction: column;
     margin: auto;
-    align-items: flex-start;
-    margin-left: 150px;
+    align-content: center;
+    
 }
 
 .quadro{
-    margin: 0;
-    background-color: whitesmoke;
-    border-radius: 10px;
-    border-color: rgb(105, 104, 104);
-    padding: 10px;
-    width: 90%;
+
+    width: 50%;
+    border-radius: 15px;
+    padding: 20px;
+    margin-left: 450px;
+    border: solid;
+    border-color: rgb(172, 167, 167);
+  
 }
 #subtitulo{
     font-size: 18px;
@@ -165,7 +167,7 @@ font-size: 15px;
 
     font-family: Arial, Helvetica, sans-serif;
     display: flex;
-    background-color: beige;
+    background-color: rgb(230, 208, 208);
     margin: auto;
     align-items: center;
     border-radius: 10px;
@@ -188,7 +190,7 @@ font-size: 15px;
 
 .rodape{
 
-    background-color: rgb(233, 226, 226);
+    background-color: rgb(170, 168, 168);
     display: flex;
     width: 100%;
     font-family: Arial, Helvetica, sans-serif;
@@ -210,7 +212,7 @@ form{
 #envio{
 
 
-    background-color: rgb(148, 13, 13);
+    background-color:  rgb(77, 17, 17);
     padding: 4px;
     border-radius: 5px;
     color: white;
@@ -221,4 +223,12 @@ form{
 
 p{
     color: gray;
+}
+
+.design{
+
+flex-direction: row;
+justify-content: left;
+margin-left: 350px;
+
 }
