@@ -114,11 +114,11 @@ td{
 
 #vagas{
 
-    font-size: 20px;
+    font-size: 15px;
     color: rgb(77, 17, 17);
-    background-color: beige;
+    background-color: rgb(249, 244, 244);
     border-radius: 10px;
-    padding: 10px;
+    padding: 8px;
  
 }
 
@@ -148,7 +148,7 @@ text{
     padding: 20px;
     margin-left: 450px;
     border: solid;
-    border-color: rgb(172, 167, 167);
+    border-color: rgb(243, 238, 238);
   
 }
 #subtitulo{
@@ -167,7 +167,7 @@ font-size: 15px;
 
     font-family: Arial, Helvetica, sans-serif;
     display: flex;
-    background-color: rgb(230, 208, 208);
+    background-color: rgb(249, 244, 244);
     margin: auto;
     align-items: center;
     border-radius: 10px;
@@ -190,7 +190,7 @@ font-size: 15px;
 
 .rodape{
 
-    background-color: rgb(170, 168, 168);
+    background-color: rgb(218, 214, 214);
     display: flex;
     width: 100%;
     font-family: Arial, Helvetica, sans-serif;
@@ -229,6 +229,6 @@ p{
 
 flex-direction: row;
 justify-content: left;
-margin-left: 350px;
+margin-left: 460px;
 
 }
